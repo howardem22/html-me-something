@@ -1,14 +1,21 @@
-
 body {
-    margin: 100px 100px 100px 100px
+    background-image: url('GreatWhiteShark.jpg');
+    text-align: center;
+}
+
+.shark {
+    border-radius: 1em;
+    border-style: solid;
+    border-color: blue;
+    border-width: thick;
 }
 
 #title {
-    padding: 50px 50px 50px 50px;
+    font-family: sans-serif;
+    font-size: 150%;
+}
 
+p {
+    font-size: large;
+    text-shadow: 0 0 .7em white;
 }
-class
-.image {
-    style= "width:300px ; height:300px;"
-}
-element
